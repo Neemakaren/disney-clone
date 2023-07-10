@@ -1,0 +1,17 @@
+
+
+* {
+  background-color: #131520;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  height: 100vh;
+  background-color: #131520;
+  min-height: 100vh;
+
+}
+
